@@ -16,3 +16,7 @@ After checking that the image has been built succesfully, run `docker run -d -p 
 Navigate to localhost:5000 to ensure that the host port has been succesfully mapped to the container port and Hello World appears on your screen
 
 You can pull this image from my dockerhub using `docker pull adimish545/python_test`
+
+# flask_test
+
+This folder contains a slightly more advanced flask webpage. Pull this image from my dockerhub using `docker pull adimish545/sample_flask`. Or directly download and run on your system and build the image using the provided Dockerfile.
